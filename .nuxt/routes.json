@@ -1,0 +1,65 @@
+[
+  {
+    "name": "addvote",
+    "path": "/addvote",
+    "component": "C:\\\\Users\\\\Thinkpad L570\\\\Desktop\\\\VUEJS\\\\nuxt\\\\nuxt\\\\nuxtForLogin\\\\pages\\\\addvote.vue",
+    "chunkName": "pages/addvote",
+    "_name": "_7b46c27e"
+  },
+  {
+    "name": "Choice",
+    "path": "/Choice",
+    "component": "C:\\\\Users\\\\Thinkpad L570\\\\Desktop\\\\VUEJS\\\\nuxt\\\\nuxt\\\\nuxtForLogin\\\\pages\\\\Choice.vue",
+    "chunkName": "pages/Choice",
+    "_name": "_1695dd0a"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Thinkpad L570\\\\Desktop\\\\VUEJS\\\\nuxt\\\\nuxt\\\\nuxtForLogin\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_49e8ab9f"
+  },
+  {
+    "name": "poll",
+    "path": "/poll",
+    "component": "C:\\\\Users\\\\Thinkpad L570\\\\Desktop\\\\VUEJS\\\\nuxt\\\\nuxt\\\\nuxtForLogin\\\\pages\\\\poll.vue",
+    "chunkName": "pages/poll",
+    "_name": "_fd999e0e"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\Thinkpad L570\\\\Desktop\\\\VUEJS\\\\nuxt\\\\nuxt\\\\nuxtForLogin\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_cd265646"
+  },
+  {
+    "name": "tutorial",
+    "path": "/tutorial",
+    "component": "C:\\\\Users\\\\Thinkpad L570\\\\Desktop\\\\VUEJS\\\\nuxt\\\\nuxt\\\\nuxtForLogin\\\\pages\\\\tutorial.vue",
+    "chunkName": "pages/tutorial",
+    "_name": "_2382fc18"
+  },
+  {
+    "name": "vote",
+    "path": "/vote",
+    "component": "C:\\\\Users\\\\Thinkpad L570\\\\Desktop\\\\VUEJS\\\\nuxt\\\\nuxt\\\\nuxtForLogin\\\\pages\\\\vote.vue",
+    "chunkName": "pages/vote",
+    "_name": "_048342b8"
+  },
+  {
+    "name": "votelist",
+    "path": "/votelist",
+    "component": "C:\\\\Users\\\\Thinkpad L570\\\\Desktop\\\\VUEJS\\\\nuxt\\\\nuxt\\\\nuxtForLogin\\\\pages\\\\votelist.vue",
+    "chunkName": "pages/votelist",
+    "_name": "_ca82ab7c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Thinkpad L570\\\\Desktop\\\\VUEJS\\\\nuxt\\\\nuxt\\\\nuxtForLogin\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ff7deef0"
+  }
+]
